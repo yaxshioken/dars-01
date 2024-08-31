@@ -1,0 +1,11 @@
+1.loyiha uchun papka yaratamiz
+
+mkdir  loyiha va cd loyiha
+
+2.loyiha uchun yangi muhit yaratamiz va ichiga kiramiz va djangoni ornatamiz
+pip install django  django-admin startproject config .
+
+3.Loyiha ichida yangi app yaratamiz
+
+4.yangi appni settings ga qoshamiz
+python manage.py startapp appnomi
